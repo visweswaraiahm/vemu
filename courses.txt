@@ -1,4 +1,7 @@
 inter
-diloma
+diploma
 btech
+mtech
+mba
+mca
 etc
